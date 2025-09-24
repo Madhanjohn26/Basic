@@ -18,6 +18,8 @@ public class PalindromNumber {
 		if (j==n) {
 			System.out.println("Palindrom");
 		}
+
+		
 	}
 
 }
